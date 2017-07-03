@@ -141,7 +141,7 @@
        (purple-2bg       "#302948")
        (purple-3bg       "#241F36")
        (foreground       "#F4EAD5")
-       (hl-line          "#11252A")
+       (hl-line          "#18161A")
        (selection        "#11253A")
        (background       "#110F13")
        (background-dark  "#0F0D11")
